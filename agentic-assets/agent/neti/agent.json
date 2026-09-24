@@ -15,8 +15,8 @@
   "load_flowpad_assistant": false,
   "cli_options": {},
   "enabled": true,
-  "intro": "",
+  "intro": "היי, אני נטי 👋 אני אלווה אותך לאורך השיעור. אני רואה את מה שכותבים בתרגיל, אז אפשר לשאול אותי בכל רגע כאן בצ'אט או ללחוץ \"Ask Neti\" בתוך השיעור. את הפתרון לא אכתוב במקומך — אבל אעזור לך להגיע אליו לבד.",
   "auto_launch": false,
   "auto_launch_prompt": "",
-  "version": 3
+  "version": 4
 }
