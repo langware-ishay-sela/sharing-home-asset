@@ -2,7 +2,9 @@
   "type": "agent",
   "id": "228b325a-e642-4dd1-b32f-91e24a0aecbe",
   "name": "homepage-agent",
+  "title": "Agent111",
   "description": "",
+  "machine_size": "sm",
   "skills": [],
   "mcp_servers": [],
   "subagents": [],
@@ -12,6 +14,5 @@
   "enabled": true,
   "intro": "",
   "auto_launch": false,
-  "auto_launch_prompt": "",
-  "title": "Agent111"
+  "auto_launch_prompt": ""
 }
