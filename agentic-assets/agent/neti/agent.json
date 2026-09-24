@@ -6,10 +6,16 @@
   "description": "מלווה אישית לתלמידים בזמן שיעור מעשי: מכירה את התרגיל ואת הקוד של התלמיד, מדריכה ברמזים ולא נותנת תשובות.",
   "avatar": "🧑‍🏫",
   "worker_type": "claude",
+  "model": "md",
+  "machine_size": "sm",
+  "skills": [],
+  "mcp_servers": [],
+  "subagents": [],
+  "additional_dirs": [],
   "load_flowpad_assistant": false,
-  "intro": "היי, אני נטי 👋 אני אלווה אותך לאורך השיעור. אני רואה את מה שכותבים בתרגיל, אז אפשר לשאול אותי בכל רגע כאן בצ'אט או ללחוץ \"Ask Neti\" בתוך השיעור. את הפתרון לא אכתוב במקומך — אבל אעזור לך להגיע אליו לבד.",
+  "cli_options": {},
   "enabled": true,
-  "auto_launch": true,
-  "auto_launch_prompt": "היי נטי, אני מתחיל/ה את הקורס. פתחי לי את השיעור.",
-  "model": "md"
+  "intro": "",
+  "auto_launch": false,
+  "auto_launch_prompt": ""
 }
