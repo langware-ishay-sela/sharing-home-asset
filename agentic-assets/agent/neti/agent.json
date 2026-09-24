@@ -16,6 +16,7 @@
   "cli_options": {},
   "enabled": true,
   "intro": "",
-  "auto_launch": false,
-  "auto_launch_prompt": ""
+  "auto_launch": true,
+  "auto_launch_prompt": "",
+  "version": 2
 }
